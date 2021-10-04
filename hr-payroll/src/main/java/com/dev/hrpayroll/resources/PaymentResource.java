@@ -14,6 +14,8 @@ import com.dev.hrpayroll.services.PaymentService;
 @RequestMapping("/payments")
 public class PaymentResource {
 	
+	
+	
 	@Autowired
 	private PaymentService service;
 	
